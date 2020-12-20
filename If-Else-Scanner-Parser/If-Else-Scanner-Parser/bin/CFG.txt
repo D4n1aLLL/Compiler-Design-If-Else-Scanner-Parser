@@ -1,0 +1,23 @@
+1S = a
+2a = b
+3a = e
+4b = xa}c
+5c = ya}c
+6c = a
+7c = d
+8d = za}a
+---
+x } y z
+S a b c d
+S x 1
+S $ 1
+a x 2
+a } 3
+a $ 3
+b x 4
+c x 6
+c } 6
+c y 5
+c z 7
+c $ 6
+d z 8
